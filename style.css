@@ -1,0 +1,33 @@
+body{
+    font-family:font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width image{
+width: 50%;
+padding-left: 5%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius:  5px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+  .top-shapes image{
+    background-images: url(images/shapes/Group\ 8446.png);
+  }
